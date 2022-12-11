@@ -1,13 +1,21 @@
 ## Vitaliy Punko
+
+---
+
 ### Contacts
 * +375445584636
 * punkovitaliy@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/vitaliy-punko-ba11a11ba/)
 
+
+---
+
 ### About Me
 Have good technical knowledge and task solving skills in Java.
 Highly motivated to improve my professional and soft skills.
 I'm ready to work hard in a team.
+
+---
 
 ### Work Experience
 * Java developer Beltamozhservice, Minsk
@@ -34,10 +42,14 @@ December 2019 - January 2021
     - Consideration and adjustment of architectural designs of construction projects
     - Taking part in the tender process
 
+---
+
 ### Education
 Belarusian National Technical University,
 energy faculty,
 automation and control of heat processes (2013 - 2018)
+
+---
 
 ### Skills
 * Java
