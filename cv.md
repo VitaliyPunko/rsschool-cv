@@ -33,3 +33,16 @@ December 2019 - January 2021
     - Participation in the commission for the construction of electric boilers in Brest and Pinsk
     - Consideration and adjustment of architectural designs of construction projects
     - Taking part in the tender process
+
+### Education
+Belarusian National Technical University,
+energy faculty,
+automation and control of heat processes (2013 - 2018)
+
+### Skills
+* Java
+* SQL(Oracle, PostgreSQL, H2)
+* Spring Core, AOP,  MVC, Boot
+* Spring JDBC, Hibernate, Spring Data
+* Liquibase
+* English - Intermediate
